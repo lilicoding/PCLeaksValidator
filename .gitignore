@@ -14,3 +14,7 @@ bin
 workspace/
 TODO.list
 release/MaliciousApp-release.apk
+
+.project
+.classpath
+.settings
